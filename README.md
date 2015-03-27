@@ -432,6 +432,8 @@
 - [PDF.js - 一个 JavaScript 编写的 PDF 阅读器](https://github.com/mozilla/pdf.js)
 - [noty]-一个Jquery的插件，消息弹窗(https://github.com/needim/noty)
 - [stroll.js]-滚动条滚动效果库(https://github.com/hakimel/stroll.js)
+- [turn.js]html5翻页效果库(https://github.com/blasten/turn.js)
+- [arbor.js]-a graph visualization library using web workers and jQuery(https://github.com/samizdatco/arbor)
 
 ---
 
