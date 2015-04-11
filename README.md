@@ -315,6 +315,7 @@
 - [Hover.css](https://github.com/IanLunn/Hover)
 - [css-loaders](https://github.com/lukehaas/css-loaders)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit)
+- [Velocity - Accelerated JavaScript animation](https://github.com/julianshapiro/velocity)
 
 ##17. 本地存储
 
@@ -434,6 +435,17 @@
 - [stroll.js - 滚动条滚动效果库](https://github.com/hakimel/stroll.js)
 - [turn.js - html5翻页效果库](https://github.com/blasten/turn.js)
 - [arbor.js -a graph visualization library using web workers and jQuery](https://github.com/samizdatco/arbor)
+- [nprogress - For slim progress bars like on YouTube, Medium, etc 
+http://ricostacruz.com/nprogress](https://github.com/rstacruz/nprogress)
+- [html2canvas 利用js和canvas进行截屏](https://github.com/niklasvh/html2canvas)
+- [screenfull.js Simple wrapper for cross-browser usage of the JavaScript Fullscreen API 
+](https://github.com/sindresorhus/screenfull.js)
+
+## CDN
+- [CNDjs - We host it all - JavaScript, CSS, SWF, images, etc!](https://cdnjs.com/)
+## js 工具
+- [jsbin Collaborative JavaScript Debugging App](https://github.com/jsbin/jsbin)
+- [jsconsole - Web based console - for presentations and workshops](https://github.com/remy/jsconsole)
 
 ---
 
