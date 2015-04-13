@@ -168,7 +168,7 @@
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 - [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
-  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
+- [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
 
 ##12. 日期格式化
 
